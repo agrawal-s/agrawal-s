@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Shrikant Agrawal, your friendly neighbourhood Data Scientist. Recently graduated as a Masters in Data Science. I'm passionate about Deep Learning and Statistical methods for Data Science. I love science fiction and aspire to invent a dream detector. 
+I'm Shrikant Agrawal, your friendly neighbourhood Data Scientist. Recently graduated as a Master of Data Science from University of Queensland, Australia. I'm passionate about Deep Learning and Statistical methods for Data Science. I love science fiction and aspire to invent a dream detector. 
 
 
 
