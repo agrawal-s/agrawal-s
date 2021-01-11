@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-I'm Shrikant Agrawal. Recently graduated as a Masters in Data Science. I'm passionate about Deep Learning and Statistical methods for Data Science. I love science fiction and hope to invent a dream detector. 
+I'm Shrikant Agrawal, your friendly neighbourhood Data Scientist. Recently graduated as a Masters in Data Science. I'm passionate about Deep Learning and Statistical methods for Data Science. I love science fiction and aspire to invent a dream detector. 
 
 
 
-🔭 Currently I'm working on:
+🔭 Currently, I'm working on:
 
 1. <a href="https://github.com/agrawal-s/Deepfake_DCGAN/blob/main/DC_GAN_Readme.md" target="_blank" >Deep Fake</a>: Face genrator using DC-GAN.
 2. <a href="https://github.com/agrawal-s/Project_Luck" target="_blank" >Project Luck</a> : Simulation study to identify how lucky you have to be to get selected in an interview process.
