@@ -21,9 +21,9 @@ I'm Shrikant Agrawal, your friendly neighbourhood Data Scientist. Recently gradu
 :scroll: Checkout my views on Data Science topics in my blog series, Data Science Shorts:
 1. <a href="https://github.com/agrawal-s/DataScienceBlogs/blob/main/Ethics%20of%20Tomorrow%20-%20A%20Data%20Science%20short.ipynb" target="_blank" >Ethics of Tomorrow</a> 
 2. <a href="https://github.com/agrawal-s/DataScienceBlogs/blob/main/Responsible%20Statistics%20and%20Machine%20learning.ipynb Responsible Machine Learning" target="_blank" >Responsible Machine Learning</a> 
-3. Law and Data Science
-4. Statistical modelling: The two cultures.
-5. Data Privacy: A myth?
+3. <a href="https://github.com/agrawal-s/DataScienceBlogs/blob/main/under_construction.ipynb" target="_blank" >Law and Data Science</a>   
+4. <a href="https://github.com/agrawal-s/DataScienceBlogs/blob/main/under_construction.ipynb" target="_blank" >Statistical modelling: The two cultures.</a>   
+5. <a href="https://github.com/agrawal-s/DataScienceBlogs/blob/main/under_construction.ipynb" target="_blank" >Data Privacy: A myth?</a>   
 
 
 📫 You can reach out to me on:
