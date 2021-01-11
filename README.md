@@ -32,5 +32,5 @@ I'm Shrikant Agrawal, your friendly neighbourhood Data Scientist. Recently gradu
 2. India: +91 9980807393
 3. Australia: +61 481277786
 
-⚡ Fun fact: Did you know that there are more stars in the universe than all the grains of sand in all of the beaches on the earth? 
+⚡ Fun fact: There are more possible iterations of a game of chess than there are atoms in the known universe.
 
