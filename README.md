@@ -5,11 +5,11 @@ I'm Shrikant Agrawal. Recently graduated as a Masters in Data Science. I'm passi
 
 <a href=" https://arxiv.org/abs/1912.04958" target="_blank" >Style-GAN</a> 
 
-<a href="https://thispersondoesnotexist.com/" target="_blank" ><div align="center">This person Doesnot Exist.</div></a></a>
+<a href="https://thispersondoesnotexist.com/" target="_blank" >This person Doesnot Exist.</div></a></a>
 
 🔭 Currently I'm working on:
 
-1. Deep Fake: Face genrator using DC-GAN.
+1. <a href="https://github.com/agrawal-s/Deepfake_DCGAN/blob/main/DC_GAN_Readme.md" target="_blank" >Deep Fake</a>: Face genrator using DC-GAN.
 2. Project Luck: Simulation study to identify how lucky you have to be to get selected in an interview process.
 
 💬 You can talk to me about:
