@@ -18,6 +18,12 @@ I'm Shrikant Agrawal, your friendly neighbourhood Data Scientist. Recently gradu
 5. Technology.
 6. Sci-fi books/ TV shows/ Movies.
 
+:scroll: Checkout my views on Data Science topics in my blog series, Data Science Shorts:
+1. Ethics of Tomorrow
+2. Responsible Machine Learning
+3. Law and Data Science
+4. Statistical modelling: The two cultures.
+5. Data Privacy: A myth?
 
 
 📫 You can reach out to me on:
