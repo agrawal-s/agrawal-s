@@ -2,6 +2,8 @@
 
 
 I'm Shrikant Agrawal. Recently graduated as a Masters in Data Science. I'm passionate about Deep Learning and Statistical methods for Data Science. I love science fiction and hope to invent a dream detector. 
+<a href=" https://arxiv.org/abs/1912.04958" target="_blank" >Style-GAN</a> 
+
 
 🔭 Currently I'm working on:
 
